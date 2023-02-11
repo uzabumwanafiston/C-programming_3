@@ -1,1 +1,1 @@
-My first project vagrant is a project that supports multiple projects that
+it prints the core of your operating system name
